@@ -3,7 +3,6 @@
 用于swu的今日校园打卡脚本
 
 
-
 ## 说明
 
 此仓库仅用于学习使用，请勿用于非法用途
@@ -25,8 +24,8 @@
 使用手册：https://blog.neoniou.com/posts/auto-serverless-readme/
 
 #### Github Action
-
-本方法的定时任务可能会有一定的延迟，不过不影响打卡
+ 
+本方法的定时任务可能会有一定的延迟，不过不影响打卡 
 
 [使用教程](./docs/how-to-usegithub-action.md) 
 
